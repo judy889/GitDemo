@@ -1,2 +1,3 @@
 # GitDemo
-learn git example
+##learn git example
+start to study markdown at first
